@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "convert-prompt": {
+      "source": "darknightdesigner/skills",
+      "sourceType": "github",
+      "skillPath": "skills/framer/convert-prompt/SKILL.md",
+      "computedHash": "ba778ce2cf346436f963fee2239a16dfa219af05fd16abe6b3d98289645ff600"
+    }
+  }
+}
